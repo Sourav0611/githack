@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sourav jaiswal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.30.1",
+    "random": "^4.1.0",
+    "simple-git": "^3.25.0"
+  }
+}
